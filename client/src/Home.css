@@ -1,0 +1,13 @@
+.todo-form {
+  /* max-width: 85vw; */
+  width: 40%;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate3d(-50%, 0, 0);
+  -webkit-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.15);
+box-shadow: 0px 6px 5px 0px rgba(0,0,0,0.15);
+  border-radius: 12px;
+  padding: 50px 70px;
+}
